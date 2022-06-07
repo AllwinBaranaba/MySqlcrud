@@ -1,2 +1,2 @@
-# MySqlcrud
+# Javacrud
 crud project java 
